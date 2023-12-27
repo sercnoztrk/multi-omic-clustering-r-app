@@ -9,4 +9,6 @@ datasets from [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 
 ## Querying TCGA Data
 
+Preview of queried datasets
+
 ![CNV Dataset](/screenshots/query/Screenshot%20from%202020-12-05%2018-40-29.png "CNV Dataset")
